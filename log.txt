@@ -754,3 +754,4 @@
 2024-11-15 09:01 fix typo
 2024-11-15 22:36 update sketch
 2024-11-20 14:45 notes from tonight
+2024-11-20 20:44 tweak sensor threshold
