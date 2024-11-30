@@ -757,3 +757,4 @@
 2024-11-20 20:44 tweak sensor threshold
 2024-11-21 22:04 test on breadboard
 2024-11-29 20:35 add serial debug output
+2024-11-29 21:28 adjust timing
