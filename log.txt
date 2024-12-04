@@ -760,3 +760,4 @@
 2024-11-29 21:28 adjust timing
 2024-12-01 19:28 calibrate readings
 2024-12-03 15:45 ultrasonic sensor notes
+2024-12-03 20:04 log readings to csv
