@@ -765,3 +765,4 @@
 2024-12-21 23:19 adjust timing
 2024-12-28 13:11 comment out old code
 2024-12-28 15:17 tweak sensor threshold
+2024-12-29 11:14 first blink
