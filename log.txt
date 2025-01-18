@@ -769,3 +769,4 @@
 2024-12-29 19:43 update readme
 2024-12-30 17:48 update readme
 2025-01-09 13:24 add parts list
+2025-01-18 12:17 move pin assignments to top
