@@ -772,3 +772,4 @@
 2025-01-18 12:17 move pin assignments to top
 2025-01-18 14:08 adjust timing
 2025-01-28 22:53 refactor button handling
+2025-01-31 14:42 calibrate readings
