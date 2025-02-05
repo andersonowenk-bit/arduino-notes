@@ -775,3 +775,4 @@
 2025-01-31 14:42 calibrate readings
 2025-01-31 22:21 comment out old code
 2025-02-04 18:07 refactor button handling
+2025-02-04 20:33 tweak sensor threshold
