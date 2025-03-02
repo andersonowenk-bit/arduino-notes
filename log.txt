@@ -782,3 +782,4 @@
 2025-03-02 11:10 fix wiring notes
 2025-03-02 13:56 small fixes
 2025-03-02 16:05 test on breadboard
+2025-03-02 16:13 update readme
