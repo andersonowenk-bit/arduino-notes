@@ -791,3 +791,4 @@
 2025-03-04 22:00 add parts list
 2025-03-08 15:13 fix wiring notes
 2025-03-08 16:28 servo sweep working
+2025-03-08 18:06 save progress
