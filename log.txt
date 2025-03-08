@@ -789,3 +789,4 @@
 2025-03-04 17:01 first blink
 2025-03-04 20:30 add parts list
 2025-03-04 22:00 add parts list
+2025-03-08 15:13 fix wiring notes
