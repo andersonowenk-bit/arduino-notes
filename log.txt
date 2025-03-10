@@ -797,3 +797,4 @@
 2025-03-08 21:36 save progress
 2025-03-09 09:09 read potentiometer
 2025-03-10 11:05 first blink
+2025-03-10 12:30 add serial debug output
