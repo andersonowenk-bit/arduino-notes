@@ -806,3 +806,4 @@
 2025-03-10 21:58 save progress
 2025-03-11 13:13 led matrix test
 2025-03-11 17:01 move pin assignments to top
+2025-03-11 18:16 calibrate readings
