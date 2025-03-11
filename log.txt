@@ -807,3 +807,4 @@
 2025-03-11 13:13 led matrix test
 2025-03-11 17:01 move pin assignments to top
 2025-03-11 18:16 calibrate readings
+2025-03-11 18:23 fix wiring notes
