@@ -804,3 +804,4 @@
 2025-03-10 20:18 save progress
 2025-03-10 20:37 comment out old code
 2025-03-10 21:58 save progress
+2025-03-11 13:13 led matrix test
