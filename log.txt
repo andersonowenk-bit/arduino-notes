@@ -800,3 +800,4 @@
 2025-03-10 12:30 add serial debug output
 2025-03-10 19:33 update sketch
 2025-03-10 19:49 ultrasonic sensor notes
+2025-03-10 20:14 adjust timing
