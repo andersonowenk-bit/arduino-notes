@@ -809,3 +809,4 @@
 2025-03-11 18:16 calibrate readings
 2025-03-11 18:23 fix wiring notes
 2025-03-11 19:47 led matrix test
+2025-03-11 21:35 first blink
