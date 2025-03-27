@@ -816,3 +816,4 @@
 2025-03-13 12:35 refactor button handling
 2025-03-13 13:32 servo sweep working
 2025-03-14 21:39 add serial debug output
+2025-03-26 21:56 log readings to csv
