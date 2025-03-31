@@ -829,3 +829,4 @@
 2025-03-28 20:14 log readings to csv
 2025-03-28 22:28 update sketch
 2025-03-28 22:55 save progress
+2025-03-31 16:14 fix wiring notes
