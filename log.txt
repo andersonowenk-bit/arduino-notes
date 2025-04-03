@@ -832,3 +832,4 @@
 2025-03-31 16:14 fix wiring notes
 2025-04-02 18:12 add parts list
 2025-04-03 09:26 fix wiring notes
+2025-04-03 19:27 wip
