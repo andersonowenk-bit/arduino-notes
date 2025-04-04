@@ -833,3 +833,4 @@
 2025-04-02 18:12 add parts list
 2025-04-03 09:26 fix wiring notes
 2025-04-03 19:27 wip
+2025-04-03 22:23 refactor button handling
