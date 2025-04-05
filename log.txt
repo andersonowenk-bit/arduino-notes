@@ -834,3 +834,4 @@
 2025-04-03 09:26 fix wiring notes
 2025-04-03 19:27 wip
 2025-04-03 22:23 refactor button handling
+2025-04-05 16:39 add serial debug output
