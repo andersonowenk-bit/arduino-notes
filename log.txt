@@ -839,3 +839,4 @@
 2025-04-06 22:00 first blink
 2025-04-09 12:47 try different resistor values
 2025-04-09 20:17 move pin assignments to top
+2025-04-09 20:48 clean up loop
