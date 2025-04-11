@@ -843,3 +843,4 @@
 2025-04-09 21:45 update readme
 2025-04-09 22:14 led matrix test
 2025-04-10 11:27 log readings to csv
+2025-04-11 17:45 test on breadboard
