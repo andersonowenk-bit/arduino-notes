@@ -849,3 +849,4 @@
 2025-04-12 20:12 ultrasonic sensor notes
 2025-04-12 21:31 tweak sensor threshold
 2025-04-13 13:46 move pin assignments to top
+2025-04-13 18:32 read potentiometer
