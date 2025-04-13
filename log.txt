@@ -847,3 +847,4 @@
 2025-04-11 23:31 add parts list
 2025-04-12 15:16 servo sweep working
 2025-04-12 20:12 ultrasonic sensor notes
+2025-04-12 21:31 tweak sensor threshold
