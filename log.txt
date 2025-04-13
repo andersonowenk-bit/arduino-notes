@@ -846,3 +846,4 @@
 2025-04-11 17:45 test on breadboard
 2025-04-11 23:31 add parts list
 2025-04-12 15:16 servo sweep working
+2025-04-12 20:12 ultrasonic sensor notes
