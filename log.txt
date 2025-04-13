@@ -850,3 +850,4 @@
 2025-04-12 21:31 tweak sensor threshold
 2025-04-13 13:46 move pin assignments to top
 2025-04-13 18:32 read potentiometer
+2025-04-13 18:37 add parts list
