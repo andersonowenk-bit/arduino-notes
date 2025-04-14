@@ -856,3 +856,4 @@
 2025-04-13 22:31 adjust timing
 2025-04-13 23:16 clean up loop
 2025-04-14 13:47 try different resistor values
+2025-04-14 17:27 ultrasonic sensor notes
