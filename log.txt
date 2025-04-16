@@ -859,3 +859,4 @@
 2025-04-14 17:27 ultrasonic sensor notes
 2025-04-15 12:01 fix typo
 2025-04-15 20:23 log readings to csv
+2025-04-16 11:48 read potentiometer
