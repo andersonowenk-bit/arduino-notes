@@ -861,3 +861,4 @@
 2025-04-15 20:23 log readings to csv
 2025-04-16 11:48 read potentiometer
 2025-04-16 21:35 add parts list
+2025-04-16 22:17 ultrasonic sensor notes
