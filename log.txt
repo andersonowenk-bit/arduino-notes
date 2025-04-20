@@ -872,3 +872,4 @@
 2025-04-19 21:45 ultrasonic sensor notes
 2025-04-19 21:48 move pin assignments to top
 2025-04-19 22:14 test on breadboard
+2025-04-19 23:42 swap delay for millis
