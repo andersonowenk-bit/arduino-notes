@@ -870,3 +870,4 @@
 2025-04-19 17:23 save progress
 2025-04-19 20:47 notes from tonight
 2025-04-19 21:45 ultrasonic sensor notes
+2025-04-19 21:48 move pin assignments to top
