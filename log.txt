@@ -876,3 +876,4 @@
 2025-04-20 10:16 add parts list
 2025-04-20 13:02 calibrate readings
 2025-04-20 14:12 wip
+2025-04-20 17:17 led matrix test
