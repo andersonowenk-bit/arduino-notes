@@ -882,3 +882,4 @@
 2025-04-21 15:46 wip
 2025-04-22 19:45 fix wiring notes
 2025-04-22 21:55 small fixes
+2025-04-23 18:47 read potentiometer
