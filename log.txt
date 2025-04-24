@@ -884,3 +884,4 @@
 2025-04-22 21:55 small fixes
 2025-04-23 18:47 read potentiometer
 2025-04-24 14:16 first blink
+2025-04-24 17:19 save progress
