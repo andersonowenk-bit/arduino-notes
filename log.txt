@@ -890,3 +890,4 @@
 2025-04-24 23:03 refactor button handling
 2025-04-24 23:18 fix wiring notes
 2025-04-25 18:00 move pin assignments to top
+2025-04-25 19:24 add parts list
