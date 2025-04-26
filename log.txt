@@ -893,3 +893,4 @@
 2025-04-25 19:24 add parts list
 2025-04-25 21:44 ultrasonic sensor notes
 2025-04-26 13:39 tweak sensor threshold
+2025-04-26 14:12 try different resistor values
