@@ -896,3 +896,4 @@
 2025-04-26 14:12 try different resistor values
 2025-04-26 20:10 add parts list
 2025-04-26 21:57 notes from tonight
+2025-04-26 21:59 fix wiring notes
