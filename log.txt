@@ -903,3 +903,4 @@
 2025-05-01 18:52 fix wiring notes
 2025-05-03 20:48 update sketch
 2025-05-03 22:49 try different resistor values
+2025-05-03 23:42 add serial debug output
