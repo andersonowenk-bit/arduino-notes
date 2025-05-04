@@ -901,3 +901,4 @@
 2025-05-01 12:43 update readme
 2025-05-01 12:59 add parts list
 2025-05-01 18:52 fix wiring notes
+2025-05-03 20:48 update sketch
