@@ -905,3 +905,4 @@
 2025-05-03 22:49 try different resistor values
 2025-05-03 23:42 add serial debug output
 2025-05-05 18:09 tweak sensor threshold
+2025-05-05 22:06 update sketch
