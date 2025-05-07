@@ -907,3 +907,4 @@
 2025-05-05 18:09 tweak sensor threshold
 2025-05-05 22:06 update sketch
 2025-05-05 22:18 add parts list
+2025-05-06 20:28 clean up loop
