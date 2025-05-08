@@ -908,3 +908,4 @@
 2025-05-05 22:06 update sketch
 2025-05-05 22:18 add parts list
 2025-05-06 20:28 clean up loop
+2025-05-08 10:49 comment out old code
