@@ -921,3 +921,4 @@
 2025-05-11 17:32 wip
 2025-05-12 17:43 save progress
 2025-05-12 20:58 adjust timing
+2025-05-12 22:18 test on breadboard
