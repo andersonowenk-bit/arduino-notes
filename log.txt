@@ -933,3 +933,4 @@
 2025-05-13 20:19 add serial debug output
 2025-05-13 20:25 fix typo
 2025-05-13 20:51 swap delay for millis
+2025-05-13 21:05 try different resistor values
