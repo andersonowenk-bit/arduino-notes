@@ -931,3 +931,4 @@
 2025-05-13 19:07 try different resistor values
 2025-05-13 20:14 log readings to csv
 2025-05-13 20:19 add serial debug output
+2025-05-13 20:25 fix typo
