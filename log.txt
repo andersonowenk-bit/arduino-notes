@@ -935,3 +935,4 @@
 2025-05-13 20:51 swap delay for millis
 2025-05-13 21:05 try different resistor values
 2025-05-13 21:15 small fixes
+2025-05-13 23:04 fix wiring notes
