@@ -941,3 +941,4 @@
 2025-05-14 16:43 test on breadboard
 2025-05-14 17:58 log readings to csv
 2025-05-14 19:59 first blink
+2025-05-14 21:30 wip
