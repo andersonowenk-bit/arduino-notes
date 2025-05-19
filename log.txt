@@ -956,3 +956,4 @@
 2025-05-19 11:44 ultrasonic sensor notes
 2025-05-19 11:57 swap delay for millis
 2025-05-19 13:54 comment out old code
+2025-05-19 16:41 move pin assignments to top
