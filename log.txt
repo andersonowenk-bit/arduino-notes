@@ -957,3 +957,4 @@
 2025-05-19 11:57 swap delay for millis
 2025-05-19 13:54 comment out old code
 2025-05-19 16:41 move pin assignments to top
+2025-05-19 19:35 first blink
