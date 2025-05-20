@@ -959,3 +959,4 @@
 2025-05-19 16:41 move pin assignments to top
 2025-05-19 19:35 first blink
 2025-05-19 20:28 notes from tonight
+2025-05-19 20:33 fix typo
