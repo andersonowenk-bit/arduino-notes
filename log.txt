@@ -966,3 +966,4 @@
 2025-05-19 22:16 update sketch
 2025-05-19 23:46 fix wiring notes
 2025-05-20 09:30 save progress
+2025-05-20 13:00 small fixes
