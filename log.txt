@@ -974,3 +974,4 @@
 2025-05-20 21:10 update readme
 2025-05-22 21:20 read potentiometer
 2025-05-23 16:45 fix wiring notes
+2025-05-23 19:02 small fixes
