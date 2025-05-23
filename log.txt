@@ -972,3 +972,4 @@
 2025-05-20 19:57 save progress
 2025-05-20 20:16 add parts list
 2025-05-20 21:10 update readme
+2025-05-22 21:20 read potentiometer
