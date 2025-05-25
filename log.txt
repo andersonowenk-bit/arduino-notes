@@ -976,3 +976,4 @@
 2025-05-23 16:45 fix wiring notes
 2025-05-23 19:02 small fixes
 2025-05-23 22:57 wip
+2025-05-25 16:10 notes from tonight
