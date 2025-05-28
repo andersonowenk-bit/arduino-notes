@@ -989,3 +989,4 @@
 2025-05-27 21:30 wip
 2025-05-27 22:26 test on breadboard
 2025-05-27 22:40 update readme
+2025-05-28 14:11 add serial debug output
