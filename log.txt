@@ -988,3 +988,4 @@
 2025-05-27 19:33 comment out old code
 2025-05-27 21:30 wip
 2025-05-27 22:26 test on breadboard
+2025-05-27 22:40 update readme
