@@ -994,3 +994,4 @@
 2025-05-29 20:08 add serial debug output
 2025-05-29 21:46 swap delay for millis
 2025-05-29 22:14 move pin assignments to top
+2025-05-31 10:21 add serial debug output
