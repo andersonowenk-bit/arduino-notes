@@ -998,3 +998,4 @@
 2025-05-31 13:08 move pin assignments to top
 2025-05-31 14:35 comment out old code
 2025-05-31 15:03 add serial debug output
+2025-05-31 19:18 clean up loop
