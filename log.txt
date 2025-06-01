@@ -1000,3 +1000,4 @@
 2025-05-31 15:03 add serial debug output
 2025-05-31 19:18 clean up loop
 2025-05-31 19:48 adjust timing
+2025-05-31 23:22 notes from tonight
