@@ -1005,3 +1005,4 @@
 2025-06-02 21:29 servo sweep working
 2025-06-05 18:11 calibrate readings
 2025-06-07 14:16 led matrix test
+2025-06-09 19:23 log readings to csv
