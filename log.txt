@@ -1007,3 +1007,4 @@
 2025-06-07 14:16 led matrix test
 2025-06-09 19:23 log readings to csv
 2025-06-09 22:44 calibrate readings
+2025-06-11 11:05 update readme
