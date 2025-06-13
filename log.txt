@@ -1010,3 +1010,4 @@
 2025-06-11 11:05 update readme
 2025-06-11 20:23 tweak sensor threshold
 2025-06-11 21:19 wip
+2025-06-12 21:19 comment out old code
