@@ -1029,3 +1029,4 @@
 2025-06-17 19:43 try different resistor values
 2025-06-17 20:54 try different resistor values
 2025-06-17 22:27 wip
+2025-06-17 23:43 ultrasonic sensor notes
