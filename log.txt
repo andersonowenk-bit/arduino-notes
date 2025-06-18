@@ -1027,3 +1027,4 @@
 2025-06-17 18:09 wip
 2025-06-17 19:08 log readings to csv
 2025-06-17 19:43 try different resistor values
+2025-06-17 20:54 try different resistor values
