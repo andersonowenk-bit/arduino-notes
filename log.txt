@@ -1036,3 +1036,4 @@
 2025-06-18 15:15 first blink
 2025-06-18 19:32 log readings to csv
 2025-06-18 20:31 update readme
+2025-06-18 20:55 ultrasonic sensor notes
