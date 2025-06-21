@@ -1041,3 +1041,4 @@
 2025-06-18 22:17 adjust timing
 2025-06-18 23:40 ultrasonic sensor notes
 2025-06-20 18:02 servo sweep working
+2025-06-20 20:36 servo sweep working
