@@ -1054,3 +1054,4 @@
 2025-06-28 17:44 read potentiometer
 2025-06-28 18:36 comment out old code
 2025-06-28 19:25 fix typo
+2025-06-28 19:57 add parts list
