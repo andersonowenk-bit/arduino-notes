@@ -1055,3 +1055,4 @@
 2025-06-28 18:36 comment out old code
 2025-06-28 19:25 fix typo
 2025-06-28 19:57 add parts list
+2025-06-28 20:18 notes from tonight
