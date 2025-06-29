@@ -1057,3 +1057,4 @@
 2025-06-28 19:57 add parts list
 2025-06-28 20:18 notes from tonight
 2025-06-28 20:18 fix wiring notes
+2025-06-28 20:45 update sketch
