@@ -1059,3 +1059,4 @@
 2025-06-28 20:18 fix wiring notes
 2025-06-28 20:45 update sketch
 2025-06-28 20:54 comment out old code
+2025-06-28 22:47 add parts list
