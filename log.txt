@@ -1062,3 +1062,4 @@
 2025-06-28 22:47 add parts list
 2025-06-28 22:49 test on breadboard
 2025-06-28 23:24 swap delay for millis
+2025-06-30 18:36 fix typo
