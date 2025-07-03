@@ -1064,3 +1064,4 @@
 2025-06-28 23:24 swap delay for millis
 2025-06-30 18:36 fix typo
 2025-06-30 20:05 servo sweep working
+2025-07-02 21:15 notes from tonight
