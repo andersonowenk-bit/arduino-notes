@@ -1066,3 +1066,4 @@
 2025-06-30 20:05 servo sweep working
 2025-07-02 21:15 notes from tonight
 2025-07-02 22:33 test on breadboard
+2025-07-03 09:52 log readings to csv
