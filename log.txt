@@ -1075,3 +1075,4 @@
 2025-07-03 23:30 calibrate readings
 2025-07-04 12:58 calibrate readings
 2025-07-04 15:08 tweak sensor threshold
+2025-07-04 16:06 fix typo
