@@ -1080,3 +1080,4 @@
 2025-07-04 22:03 log readings to csv
 2025-07-04 22:47 swap delay for millis
 2025-07-06 09:28 add parts list
+2025-07-06 15:49 servo sweep working
