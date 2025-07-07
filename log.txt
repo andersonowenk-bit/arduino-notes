@@ -1082,3 +1082,4 @@
 2025-07-06 09:28 add parts list
 2025-07-06 15:49 servo sweep working
 2025-07-06 15:55 adjust timing
+2025-07-06 20:46 clean up loop
