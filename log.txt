@@ -1084,3 +1084,4 @@
 2025-07-06 15:55 adjust timing
 2025-07-06 20:46 clean up loop
 2025-07-06 21:01 swap delay for millis
+2025-07-07 13:06 log readings to csv
