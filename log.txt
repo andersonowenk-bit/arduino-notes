@@ -1089,3 +1089,4 @@
 2025-07-07 19:49 tweak sensor threshold
 2025-07-07 20:05 notes from tonight
 2025-07-07 22:17 swap delay for millis
+2025-07-08 15:33 fix wiring notes
