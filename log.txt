@@ -1087,3 +1087,4 @@
 2025-07-07 13:06 log readings to csv
 2025-07-07 16:35 refactor button handling
 2025-07-07 19:49 tweak sensor threshold
+2025-07-07 20:05 notes from tonight
