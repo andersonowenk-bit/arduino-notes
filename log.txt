@@ -1099,3 +1099,4 @@
 2025-07-12 14:37 comment out old code
 2025-07-12 15:40 try different resistor values
 2025-07-12 17:27 servo sweep working
+2025-07-12 17:42 ultrasonic sensor notes
