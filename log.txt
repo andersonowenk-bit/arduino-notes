@@ -1102,3 +1102,4 @@
 2025-07-12 17:42 ultrasonic sensor notes
 2025-07-12 20:45 first blink
 2025-07-12 22:38 notes from tonight
+2025-07-12 23:49 log readings to csv
