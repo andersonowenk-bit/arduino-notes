@@ -1106,3 +1106,4 @@
 2025-07-23 22:23 small fixes
 2025-07-24 13:45 update readme
 2025-07-24 17:45 small fixes
+2025-07-25 19:02 clean up loop
