@@ -1108,3 +1108,4 @@
 2025-07-24 17:45 small fixes
 2025-07-25 19:02 clean up loop
 2025-07-25 20:01 ultrasonic sensor notes
+2025-07-25 23:40 add serial debug output
