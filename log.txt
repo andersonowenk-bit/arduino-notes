@@ -1110,3 +1110,4 @@
 2025-07-25 20:01 ultrasonic sensor notes
 2025-07-25 23:40 add serial debug output
 2025-07-27 12:19 calibrate readings
+2025-07-27 21:27 comment out old code
