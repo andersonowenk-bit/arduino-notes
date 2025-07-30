@@ -1115,3 +1115,4 @@
 2025-07-29 20:28 log readings to csv
 2025-07-29 21:35 clean up loop
 2025-07-29 21:48 swap delay for millis
+2025-07-30 12:33 ultrasonic sensor notes
