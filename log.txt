@@ -1112,3 +1112,4 @@
 2025-07-27 12:19 calibrate readings
 2025-07-27 21:27 comment out old code
 2025-07-27 21:40 read potentiometer
+2025-07-29 20:28 log readings to csv
