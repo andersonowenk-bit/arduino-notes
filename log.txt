@@ -1120,3 +1120,4 @@
 2025-07-30 16:55 calibrate readings
 2025-08-02 14:45 test on breadboard
 2025-08-03 19:08 fix wiring notes
+2025-08-03 20:26 swap delay for millis
