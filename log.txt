@@ -1129,3 +1129,4 @@
 2025-08-04 22:39 log readings to csv
 2025-08-06 15:49 add serial debug output
 2025-08-06 16:40 ultrasonic sensor notes
+2025-08-06 18:28 ultrasonic sensor notes
