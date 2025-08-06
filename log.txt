@@ -1127,3 +1127,4 @@
 2025-08-04 21:13 tweak sensor threshold
 2025-08-04 22:37 calibrate readings
 2025-08-04 22:39 log readings to csv
+2025-08-06 15:49 add serial debug output
