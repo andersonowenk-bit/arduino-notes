@@ -1134,3 +1134,4 @@
 2025-08-07 12:05 calibrate readings
 2025-08-07 14:48 save progress
 2025-08-07 20:45 calibrate readings
+2025-08-08 16:15 add serial debug output
