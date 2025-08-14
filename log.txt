@@ -1143,3 +1143,4 @@
 2025-08-10 19:38 wip
 2025-08-12 22:49 add serial debug output
 2025-08-13 18:17 small fixes
+2025-08-13 21:01 led matrix test
