@@ -1146,3 +1146,4 @@
 2025-08-13 21:01 led matrix test
 2025-08-14 20:07 ultrasonic sensor notes
 2025-08-15 14:32 small fixes
+2025-08-15 17:53 add serial debug output
