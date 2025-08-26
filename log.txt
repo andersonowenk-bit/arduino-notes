@@ -1159,3 +1159,4 @@
 2025-08-21 17:03 calibrate readings
 2025-08-25 17:04 update readme
 2025-08-25 19:01 calibrate readings
+2025-08-25 20:08 test on breadboard
