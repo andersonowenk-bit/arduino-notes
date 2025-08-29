@@ -1163,3 +1163,4 @@
 2025-08-26 14:15 clean up loop
 2025-08-29 14:25 comment out old code
 2025-08-29 18:23 log readings to csv
+2025-08-29 19:31 servo sweep working
