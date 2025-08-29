@@ -1161,3 +1161,4 @@
 2025-08-25 19:01 calibrate readings
 2025-08-25 20:08 test on breadboard
 2025-08-26 14:15 clean up loop
+2025-08-29 14:25 comment out old code
