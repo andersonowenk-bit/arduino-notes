@@ -1166,3 +1166,4 @@
 2025-08-29 19:31 servo sweep working
 2025-08-29 20:08 small fixes
 2025-08-29 21:25 notes from tonight
+2025-08-29 21:49 adjust timing
