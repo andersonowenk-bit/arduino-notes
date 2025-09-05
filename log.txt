@@ -1174,3 +1174,4 @@
 2025-09-02 20:50 tweak sensor threshold
 2025-09-04 15:22 swap delay for millis
 2025-09-04 19:43 first blink
+2025-09-04 22:26 test on breadboard
