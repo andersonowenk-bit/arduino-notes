@@ -1176,3 +1176,4 @@
 2025-09-04 19:43 first blink
 2025-09-04 22:26 test on breadboard
 2025-09-06 12:39 calibrate readings
+2025-09-06 13:24 notes from tonight
