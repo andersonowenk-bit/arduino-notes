@@ -1180,3 +1180,4 @@
 2025-09-06 13:52 log readings to csv
 2025-09-06 13:57 calibrate readings
 2025-09-06 22:27 notes from tonight
+2025-09-06 23:04 ultrasonic sensor notes
