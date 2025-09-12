@@ -1188,3 +1188,4 @@
 2025-09-11 20:54 swap delay for millis
 2025-09-11 21:54 notes from tonight
 2025-09-12 16:43 move pin assignments to top
+2025-09-12 16:44 test on breadboard
