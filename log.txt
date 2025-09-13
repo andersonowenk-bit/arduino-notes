@@ -1195,3 +1195,4 @@
 2025-09-12 20:36 update sketch
 2025-09-12 20:52 try different resistor values
 2025-09-12 21:44 comment out old code
+2025-09-13 12:33 log readings to csv
