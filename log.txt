@@ -1194,3 +1194,4 @@
 2025-09-12 20:12 fix wiring notes
 2025-09-12 20:36 update sketch
 2025-09-12 20:52 try different resistor values
+2025-09-12 21:44 comment out old code
