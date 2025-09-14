@@ -1198,3 +1198,4 @@
 2025-09-13 12:33 log readings to csv
 2025-09-13 17:11 wip
 2025-09-13 20:26 first blink
+2025-09-13 21:30 add parts list
