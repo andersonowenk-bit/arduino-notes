@@ -1201,3 +1201,4 @@
 2025-09-13 21:30 add parts list
 2025-09-13 21:50 refactor button handling
 2025-09-14 18:31 move pin assignments to top
+2025-09-14 23:20 add parts list
