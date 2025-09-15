@@ -1204,3 +1204,4 @@
 2025-09-14 23:20 add parts list
 2025-09-15 13:06 read potentiometer
 2025-09-15 18:36 save progress
+2025-09-15 19:17 swap delay for millis
