@@ -1219,3 +1219,4 @@
 2025-09-25 13:44 add parts list
 2025-09-25 17:09 servo sweep working
 2025-09-25 20:25 refactor button handling
+2025-09-29 17:13 notes from tonight
