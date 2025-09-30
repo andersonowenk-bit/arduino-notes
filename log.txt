@@ -1222,3 +1222,4 @@
 2025-09-29 17:13 notes from tonight
 2025-09-29 21:24 log readings to csv
 2025-09-30 11:13 led matrix test
+2025-09-30 16:17 add parts list
