@@ -1225,3 +1225,4 @@
 2025-09-30 16:17 add parts list
 2025-09-30 17:02 try different resistor values
 2025-09-30 18:16 adjust timing
+2025-09-30 18:40 move pin assignments to top
