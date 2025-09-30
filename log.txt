@@ -1220,3 +1220,4 @@
 2025-09-25 17:09 servo sweep working
 2025-09-25 20:25 refactor button handling
 2025-09-29 17:13 notes from tonight
+2025-09-29 21:24 log readings to csv
