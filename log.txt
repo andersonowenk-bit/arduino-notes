@@ -1247,3 +1247,4 @@
 2025-10-01 23:32 fix typo
 2025-10-01 23:47 log readings to csv
 2025-10-02 12:36 adjust timing
+2025-10-02 13:13 ultrasonic sensor notes
