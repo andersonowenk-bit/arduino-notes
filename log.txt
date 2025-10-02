@@ -1248,3 +1248,4 @@
 2025-10-01 23:47 log readings to csv
 2025-10-02 12:36 adjust timing
 2025-10-02 13:13 ultrasonic sensor notes
+2025-10-02 17:05 read potentiometer
