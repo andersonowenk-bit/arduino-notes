@@ -1240,3 +1240,4 @@
 2025-10-01 21:09 tweak sensor threshold
 2025-10-01 21:27 tweak sensor threshold
 2025-10-01 21:47 add parts list
+2025-10-01 22:42 test on breadboard
