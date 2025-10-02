@@ -1246,3 +1246,4 @@
 2025-10-01 23:24 try different resistor values
 2025-10-01 23:32 fix typo
 2025-10-01 23:47 log readings to csv
+2025-10-02 12:36 adjust timing
