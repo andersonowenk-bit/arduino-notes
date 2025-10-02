@@ -1234,3 +1234,4 @@
 2025-10-01 15:16 first blink
 2025-10-01 17:05 small fixes
 2025-10-01 17:47 refactor button handling
+2025-10-01 20:16 test on breadboard
