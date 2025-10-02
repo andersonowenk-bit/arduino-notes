@@ -1244,3 +1244,4 @@
 2025-10-01 22:44 test on breadboard
 2025-10-01 23:15 try different resistor values
 2025-10-01 23:24 try different resistor values
+2025-10-01 23:32 fix typo
