@@ -1252,3 +1252,4 @@
 2025-10-02 17:28 log readings to csv
 2025-10-02 19:55 clean up loop
 2025-10-02 22:50 comment out old code
+2025-10-03 15:44 fix wiring notes
