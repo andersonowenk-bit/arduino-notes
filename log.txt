@@ -1254,3 +1254,4 @@
 2025-10-02 22:50 comment out old code
 2025-10-03 15:44 fix wiring notes
 2025-10-06 18:15 add serial debug output
+2025-10-06 19:35 read potentiometer
