@@ -1260,3 +1260,4 @@
 2025-10-08 23:36 servo sweep working
 2025-10-09 10:31 update readme
 2025-10-09 12:47 ultrasonic sensor notes
+2025-10-09 16:53 led matrix test
