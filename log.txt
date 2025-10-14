@@ -1264,3 +1264,4 @@
 2025-10-09 18:20 tweak sensor threshold
 2025-10-09 19:49 first blink
 2025-10-09 23:18 save progress
+2025-10-14 13:03 add parts list
