@@ -1269,3 +1269,4 @@
 2025-10-14 17:54 add parts list
 2025-10-14 18:49 notes from tonight
 2025-10-14 20:55 update sketch
+2025-10-14 21:52 try different resistor values
