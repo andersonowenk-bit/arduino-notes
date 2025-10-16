@@ -1270,3 +1270,4 @@
 2025-10-14 18:49 notes from tonight
 2025-10-14 20:55 update sketch
 2025-10-14 21:52 try different resistor values
+2025-10-16 16:15 adjust timing
