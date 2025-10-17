@@ -1272,3 +1272,4 @@
 2025-10-14 21:52 try different resistor values
 2025-10-16 16:15 adjust timing
 2025-10-17 13:21 wip
+2025-10-17 13:55 refactor button handling
