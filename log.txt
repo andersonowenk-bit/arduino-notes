@@ -1277,3 +1277,4 @@
 2025-10-17 17:39 fix typo
 2025-10-17 19:03 read potentiometer
 2025-10-17 21:24 read potentiometer
+2025-10-18 13:32 add serial debug output
