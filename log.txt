@@ -1280,3 +1280,4 @@
 2025-10-18 13:32 add serial debug output
 2025-10-18 16:34 notes from tonight
 2025-10-18 19:37 small fixes
+2025-10-18 20:34 read potentiometer
