@@ -1282,3 +1282,4 @@
 2025-10-18 19:37 small fixes
 2025-10-18 20:34 read potentiometer
 2025-10-18 21:46 servo sweep working
+2025-10-18 21:55 fix wiring notes
