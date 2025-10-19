@@ -1283,3 +1283,4 @@
 2025-10-18 20:34 read potentiometer
 2025-10-18 21:46 servo sweep working
 2025-10-18 21:55 fix wiring notes
+2025-10-18 23:58 first blink
