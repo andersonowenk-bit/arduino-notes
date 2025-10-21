@@ -1285,3 +1285,4 @@
 2025-10-18 21:55 fix wiring notes
 2025-10-18 23:58 first blink
 2025-10-20 13:32 move pin assignments to top
+2025-10-20 21:48 swap delay for millis
