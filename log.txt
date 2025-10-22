@@ -1287,3 +1287,4 @@
 2025-10-20 13:32 move pin assignments to top
 2025-10-20 21:48 swap delay for millis
 2025-10-21 18:15 move pin assignments to top
+2025-10-22 13:44 log readings to csv
