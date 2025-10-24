@@ -1297,3 +1297,4 @@
 2025-10-23 18:53 clean up loop
 2025-10-23 19:14 add parts list
 2025-10-23 21:03 ultrasonic sensor notes
+2025-10-23 21:18 log readings to csv
