@@ -1303,3 +1303,4 @@
 2025-10-23 22:30 save progress
 2025-10-23 23:17 add serial debug output
 2025-10-25 14:32 first blink
+2025-10-25 20:39 test on breadboard
