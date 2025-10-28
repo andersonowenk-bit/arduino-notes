@@ -1308,3 +1308,4 @@
 2025-10-26 22:07 add serial debug output
 2025-10-26 23:12 first blink
 2025-10-27 22:03 move pin assignments to top
+2025-10-27 22:36 clean up loop
