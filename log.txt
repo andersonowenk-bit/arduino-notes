@@ -1315,3 +1315,4 @@
 2025-10-30 16:04 adjust timing
 2025-10-30 20:36 first blink
 2025-10-30 22:25 save progress
+2025-10-30 23:31 comment out old code
