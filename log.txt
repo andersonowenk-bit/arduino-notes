@@ -1322,3 +1322,4 @@
 2025-11-01 09:29 comment out old code
 2025-11-01 09:34 calibrate readings
 2025-11-01 20:47 small fixes
+2025-11-01 22:06 notes from tonight
