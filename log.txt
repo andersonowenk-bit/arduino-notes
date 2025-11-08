@@ -1329,3 +1329,4 @@
 2025-11-08 09:17 fix typo
 2025-11-08 10:37 first blink
 2025-11-08 12:26 add parts list
+2025-11-08 12:58 refactor button handling
