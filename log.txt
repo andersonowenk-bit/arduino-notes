@@ -1333,3 +1333,4 @@
 2025-11-08 17:11 adjust timing
 2025-11-08 18:19 ultrasonic sensor notes
 2025-11-08 19:02 small fixes
+2025-11-08 19:29 add parts list
