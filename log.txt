@@ -1337,3 +1337,4 @@
 2025-11-08 19:37 add serial debug output
 2025-11-08 19:49 first blink
 2025-11-08 20:36 read potentiometer
+2025-11-08 21:24 move pin assignments to top
