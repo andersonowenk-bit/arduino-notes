@@ -1332,3 +1332,4 @@
 2025-11-08 12:58 refactor button handling
 2025-11-08 17:11 adjust timing
 2025-11-08 18:19 ultrasonic sensor notes
+2025-11-08 19:02 small fixes
