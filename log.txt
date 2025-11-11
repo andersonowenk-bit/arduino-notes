@@ -1344,3 +1344,4 @@
 2025-11-10 19:12 led matrix test
 2025-11-10 20:02 move pin assignments to top
 2025-11-10 20:07 swap delay for millis
+2025-11-10 22:30 clean up loop
