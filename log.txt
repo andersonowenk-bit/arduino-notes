@@ -1347,3 +1347,4 @@
 2025-11-10 22:30 clean up loop
 2025-11-11 21:08 calibrate readings
 2025-11-11 21:37 swap delay for millis
+2025-11-12 14:04 first blink
