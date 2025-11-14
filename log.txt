@@ -1348,3 +1348,4 @@
 2025-11-11 21:08 calibrate readings
 2025-11-11 21:37 swap delay for millis
 2025-11-12 14:04 first blink
+2025-11-13 19:36 update sketch
