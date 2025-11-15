@@ -1351,3 +1351,4 @@
 2025-11-13 19:36 update sketch
 2025-11-14 15:36 try different resistor values
 2025-11-15 14:21 fix typo
+2025-11-15 18:29 ultrasonic sensor notes
