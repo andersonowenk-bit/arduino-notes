@@ -1356,3 +1356,4 @@
 2025-11-18 17:38 add parts list
 2025-11-18 18:52 refactor button handling
 2025-11-18 19:25 clean up loop
+2025-11-18 19:40 fix wiring notes
