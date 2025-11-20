@@ -1359,3 +1359,4 @@
 2025-11-18 19:40 fix wiring notes
 2025-11-18 20:14 test on breadboard
 2025-11-19 20:38 notes from tonight
+2025-11-20 13:35 small fixes
