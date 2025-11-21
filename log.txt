@@ -1362,3 +1362,4 @@
 2025-11-20 13:35 small fixes
 2025-11-20 22:34 tweak sensor threshold
 2025-11-21 13:49 comment out old code
+2025-11-21 14:50 refactor button handling
