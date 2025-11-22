@@ -1365,3 +1365,4 @@
 2025-11-21 14:50 refactor button handling
 2025-11-21 19:35 small fixes
 2025-11-21 20:46 try different resistor values
+2025-11-21 21:57 refactor button handling
