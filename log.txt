@@ -1369,3 +1369,4 @@
 2025-11-26 11:09 try different resistor values
 2025-11-26 12:08 tweak sensor threshold
 2025-11-26 16:46 add parts list
+2025-11-26 17:38 refactor button handling
