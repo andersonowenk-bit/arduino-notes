@@ -1371,3 +1371,4 @@
 2025-11-26 16:46 add parts list
 2025-11-26 17:38 refactor button handling
 2025-11-26 19:39 refactor button handling
+2025-11-26 20:16 read potentiometer
