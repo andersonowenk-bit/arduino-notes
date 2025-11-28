@@ -1382,3 +1382,4 @@
 2025-11-28 13:28 ultrasonic sensor notes
 2025-11-28 13:51 clean up loop
 2025-11-28 15:42 tweak sensor threshold
+2025-11-28 15:59 first blink
