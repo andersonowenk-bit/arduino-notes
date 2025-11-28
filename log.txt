@@ -1379,3 +1379,4 @@
 2025-11-27 16:02 log readings to csv
 2025-11-27 22:32 try different resistor values
 2025-11-28 12:18 calibrate readings
+2025-11-28 13:28 ultrasonic sensor notes
