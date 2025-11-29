@@ -1389,3 +1389,4 @@
 2025-11-28 20:56 adjust timing
 2025-11-28 21:22 update readme
 2025-11-29 09:12 adjust timing
+2025-11-29 15:34 ultrasonic sensor notes
