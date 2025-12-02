@@ -1391,3 +1391,4 @@
 2025-11-29 09:12 adjust timing
 2025-11-29 15:34 ultrasonic sensor notes
 2025-11-29 17:44 test on breadboard
+2025-12-02 13:18 calibrate readings
