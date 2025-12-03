@@ -1393,3 +1393,4 @@
 2025-11-29 17:44 test on breadboard
 2025-12-02 13:18 calibrate readings
 2025-12-02 21:24 ultrasonic sensor notes
+2025-12-03 10:46 read potentiometer
