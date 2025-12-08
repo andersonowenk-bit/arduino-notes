@@ -1398,3 +1398,4 @@
 2025-12-04 19:39 test on breadboard
 2025-12-05 17:47 fix typo
 2025-12-05 18:02 comment out old code
+2025-12-08 10:41 first blink
