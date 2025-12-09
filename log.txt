@@ -1401,3 +1401,4 @@
 2025-12-08 10:41 first blink
 2025-12-08 14:40 move pin assignments to top
 2025-12-08 22:40 notes from tonight
+2025-12-08 22:44 test on breadboard
