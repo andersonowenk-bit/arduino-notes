@@ -1402,3 +1402,4 @@
 2025-12-08 14:40 move pin assignments to top
 2025-12-08 22:40 notes from tonight
 2025-12-08 22:44 test on breadboard
+2025-12-09 19:47 ultrasonic sensor notes
