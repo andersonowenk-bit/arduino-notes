@@ -1409,3 +1409,4 @@
 2025-12-11 20:11 save progress
 2025-12-12 16:40 fix typo
 2025-12-12 19:23 wip
+2025-12-12 20:07 try different resistor values
