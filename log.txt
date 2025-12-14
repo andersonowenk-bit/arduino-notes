@@ -1411,3 +1411,4 @@
 2025-12-12 19:23 wip
 2025-12-12 20:07 try different resistor values
 2025-12-12 22:50 test on breadboard
+2025-12-14 12:59 add serial debug output
