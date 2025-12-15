@@ -1417,3 +1417,4 @@
 2025-12-14 19:38 test on breadboard
 2025-12-14 20:16 wip
 2025-12-14 21:05 clean up loop
+2025-12-14 21:34 add serial debug output
