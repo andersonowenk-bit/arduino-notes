@@ -1419,3 +1419,4 @@
 2025-12-14 21:05 clean up loop
 2025-12-14 21:34 add serial debug output
 2025-12-15 16:26 test on breadboard
+2025-12-15 19:54 update readme
