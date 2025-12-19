@@ -1426,3 +1426,4 @@
 2025-12-17 19:27 comment out old code
 2025-12-17 20:54 swap delay for millis
 2025-12-17 23:13 add serial debug output
+2025-12-18 21:36 clean up loop
