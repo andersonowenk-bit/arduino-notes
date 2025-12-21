@@ -1428,3 +1428,4 @@
 2025-12-17 23:13 add serial debug output
 2025-12-18 21:36 clean up loop
 2025-12-19 10:43 refactor button handling
+2025-12-21 10:54 tweak sensor threshold
