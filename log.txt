@@ -1432,3 +1432,4 @@
 2025-12-21 21:34 refactor button handling
 2025-12-23 17:58 update readme
 2025-12-24 22:48 try different resistor values
+2025-12-25 21:07 swap delay for millis
