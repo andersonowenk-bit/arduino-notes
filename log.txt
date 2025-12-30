@@ -1444,3 +1444,4 @@
 2025-12-29 20:25 adjust timing
 2025-12-29 21:02 save progress
 2025-12-29 21:27 wip
+2025-12-30 16:20 log readings to csv
