@@ -3,3 +3,4 @@
 2026-01-04 22:15 update sketch
 2026-01-05 10:10 save progress
 2026-01-05 12:47 try different resistor values
+2026-01-05 16:21 add parts list
