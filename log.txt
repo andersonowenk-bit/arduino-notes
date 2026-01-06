@@ -7,3 +7,4 @@
 2026-01-05 18:44 add serial debug output
 2026-01-05 21:30 clean up loop
 2026-01-05 22:01 swap delay for millis
+2026-01-05 22:10 update readme
