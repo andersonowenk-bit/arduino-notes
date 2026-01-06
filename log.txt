@@ -9,3 +9,4 @@
 2026-01-05 22:01 swap delay for millis
 2026-01-05 22:10 update readme
 2026-01-06 12:14 wip
+2026-01-06 12:23 test on breadboard
