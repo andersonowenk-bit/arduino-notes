@@ -14,3 +14,4 @@
 2026-01-06 21:27 fix typo
 2026-01-06 22:51 update sketch
 2026-01-10 14:11 refactor button handling
+2026-01-10 15:08 fix wiring notes
