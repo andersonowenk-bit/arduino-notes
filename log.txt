@@ -18,3 +18,4 @@
 2026-01-10 16:02 notes from tonight
 2026-01-10 17:17 update readme
 2026-01-10 19:28 swap delay for millis
+2026-01-10 19:53 comment out old code
