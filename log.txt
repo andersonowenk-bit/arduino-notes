@@ -21,3 +21,4 @@
 2026-01-10 19:53 comment out old code
 2026-01-10 21:12 log readings to csv
 2026-01-10 22:18 servo sweep working
+2026-01-12 17:07 add parts list
