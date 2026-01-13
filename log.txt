@@ -22,3 +22,4 @@
 2026-01-10 21:12 log readings to csv
 2026-01-10 22:18 servo sweep working
 2026-01-12 17:07 add parts list
+2026-01-12 20:22 tweak sensor threshold
