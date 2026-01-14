@@ -25,3 +25,4 @@
 2026-01-12 20:22 tweak sensor threshold
 2026-01-12 22:49 update sketch
 2026-01-13 17:06 servo sweep working
+2026-01-13 23:25 refactor button handling
