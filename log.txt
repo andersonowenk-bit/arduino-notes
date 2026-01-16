@@ -33,3 +33,4 @@
 2026-01-16 12:04 wip
 2026-01-16 17:56 update readme
 2026-01-16 18:20 comment out old code
+2026-01-16 18:32 notes from tonight
