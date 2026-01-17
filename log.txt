@@ -35,3 +35,4 @@
 2026-01-16 18:20 comment out old code
 2026-01-16 18:32 notes from tonight
 2026-01-16 21:21 save progress
+2026-01-16 22:07 log readings to csv
