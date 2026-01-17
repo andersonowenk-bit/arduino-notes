@@ -36,3 +36,4 @@
 2026-01-16 18:32 notes from tonight
 2026-01-16 21:21 save progress
 2026-01-16 22:07 log readings to csv
+2026-01-16 22:09 calibrate readings
