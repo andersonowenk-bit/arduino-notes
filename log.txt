@@ -40,3 +40,4 @@
 2026-01-17 21:18 wip
 2026-01-17 21:32 wip
 2026-01-18 18:38 refactor button handling
+2026-01-18 20:52 test on breadboard
