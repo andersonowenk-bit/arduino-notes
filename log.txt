@@ -48,3 +48,4 @@
 2026-01-21 22:25 add serial debug output
 2026-01-21 22:46 fix typo
 2026-01-22 19:05 save progress
+2026-01-24 09:48 log readings to csv
