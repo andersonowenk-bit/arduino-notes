@@ -56,3 +56,4 @@
 2026-01-24 19:13 refactor button handling
 2026-01-24 19:52 small fixes
 2026-01-24 21:31 add serial debug output
+2026-01-26 19:39 notes from tonight
