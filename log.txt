@@ -60,3 +60,4 @@
 2026-01-27 17:10 clean up loop
 2026-01-27 19:41 adjust timing
 2026-01-28 11:13 servo sweep working
+2026-01-28 12:44 test on breadboard
