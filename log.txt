@@ -66,3 +66,4 @@
 2026-01-28 15:47 test on breadboard
 2026-01-28 16:18 log readings to csv
 2026-01-28 17:05 update sketch
+2026-01-28 18:03 wip
