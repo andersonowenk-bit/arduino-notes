@@ -73,3 +73,4 @@
 2026-01-28 18:54 update readme
 2026-01-28 20:41 try different resistor values
 2026-01-28 20:43 move pin assignments to top
+2026-01-28 21:22 add parts list
