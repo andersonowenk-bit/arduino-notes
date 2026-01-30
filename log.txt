@@ -75,3 +75,4 @@
 2026-01-28 20:43 move pin assignments to top
 2026-01-28 21:22 add parts list
 2026-01-28 21:23 try different resistor values
+2026-01-30 11:09 fix typo
