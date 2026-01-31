@@ -80,3 +80,4 @@
 2026-01-30 20:57 small fixes
 2026-01-30 21:10 fix typo
 2026-01-30 21:30 log readings to csv
+2026-01-30 21:51 calibrate readings
