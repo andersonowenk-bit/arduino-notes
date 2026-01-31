@@ -77,3 +77,4 @@
 2026-01-28 21:23 try different resistor values
 2026-01-30 11:09 fix typo
 2026-01-30 14:29 calibrate readings
+2026-01-30 20:57 small fixes
