@@ -87,3 +87,4 @@
 2026-02-04 13:39 try different resistor values
 2026-02-04 16:17 fix wiring notes
 2026-02-04 17:05 notes from tonight
+2026-02-04 18:00 fix typo
