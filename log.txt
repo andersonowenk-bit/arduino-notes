@@ -84,3 +84,4 @@
 2026-01-30 23:07 add serial debug output
 2026-01-30 23:27 add parts list
 2026-02-04 12:03 clean up loop
+2026-02-04 13:39 try different resistor values
