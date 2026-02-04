@@ -83,3 +83,4 @@
 2026-01-30 21:51 calibrate readings
 2026-01-30 23:07 add serial debug output
 2026-01-30 23:27 add parts list
+2026-02-04 12:03 clean up loop
