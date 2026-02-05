@@ -88,3 +88,4 @@
 2026-02-04 16:17 fix wiring notes
 2026-02-04 17:05 notes from tonight
 2026-02-04 18:00 fix typo
+2026-02-04 19:19 tweak sensor threshold
