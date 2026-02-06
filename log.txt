@@ -91,3 +91,4 @@
 2026-02-04 19:19 tweak sensor threshold
 2026-02-04 20:39 fix typo
 2026-02-04 21:48 swap delay for millis
+2026-02-06 16:33 refactor button handling
