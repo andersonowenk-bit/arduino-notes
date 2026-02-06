@@ -93,3 +93,4 @@
 2026-02-04 21:48 swap delay for millis
 2026-02-06 16:33 refactor button handling
 2026-02-06 17:00 swap delay for millis
+2026-02-06 17:58 adjust timing
