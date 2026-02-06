@@ -95,3 +95,4 @@
 2026-02-06 17:00 swap delay for millis
 2026-02-06 17:58 adjust timing
 2026-02-06 18:43 fix typo
+2026-02-06 18:44 add serial debug output
