@@ -106,3 +106,4 @@
 2026-02-06 22:04 swap delay for millis
 2026-02-06 22:30 move pin assignments to top
 2026-02-07 10:12 try different resistor values
+2026-02-07 18:02 servo sweep working
