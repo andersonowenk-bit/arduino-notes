@@ -102,3 +102,4 @@
 2026-02-06 20:11 move pin assignments to top
 2026-02-06 20:12 tweak sensor threshold
 2026-02-06 20:55 add serial debug output
+2026-02-06 21:20 small fixes
