@@ -108,3 +108,4 @@
 2026-02-07 10:12 try different resistor values
 2026-02-07 18:02 servo sweep working
 2026-02-07 21:39 save progress
+2026-02-08 16:32 clean up loop
