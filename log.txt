@@ -112,3 +112,4 @@
 2026-02-08 20:20 swap delay for millis
 2026-02-09 14:14 refactor button handling
 2026-02-09 23:24 adjust timing
+2026-02-10 12:00 try different resistor values
