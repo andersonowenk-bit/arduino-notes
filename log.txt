@@ -116,3 +116,4 @@
 2026-02-10 19:32 update sketch
 2026-02-10 19:47 try different resistor values
 2026-02-13 17:08 small fixes
+2026-02-13 19:06 test on breadboard
