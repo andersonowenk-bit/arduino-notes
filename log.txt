@@ -120,3 +120,4 @@
 2026-02-13 22:32 swap delay for millis
 2026-02-27 09:05 try different resistor values
 2026-02-27 10:55 move pin assignments to top
+2026-02-27 11:20 try different resistor values
