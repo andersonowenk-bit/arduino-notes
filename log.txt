@@ -124,3 +124,4 @@
 2026-02-27 19:43 adjust timing
 2026-02-27 21:06 move pin assignments to top
 2026-02-27 21:08 calibrate readings
+2026-02-27 21:48 tweak sensor threshold
