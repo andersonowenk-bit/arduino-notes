@@ -130,3 +130,4 @@
 2026-02-28 18:07 add serial debug output
 2026-02-28 18:22 add parts list
 2026-03-01 12:20 move pin assignments to top
+2026-03-01 19:44 wip
