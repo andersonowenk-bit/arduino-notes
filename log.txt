@@ -131,3 +131,4 @@
 2026-02-28 18:22 add parts list
 2026-03-01 12:20 move pin assignments to top
 2026-03-01 19:44 wip
+2026-03-02 11:04 tweak sensor threshold
