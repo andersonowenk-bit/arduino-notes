@@ -139,3 +139,4 @@
 2026-03-07 16:23 update sketch
 2026-03-07 16:43 try different resistor values
 2026-03-07 17:20 add serial debug output
+2026-03-07 17:27 update readme
