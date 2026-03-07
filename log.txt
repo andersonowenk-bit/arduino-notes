@@ -138,3 +138,4 @@
 2026-03-05 22:08 tweak sensor threshold
 2026-03-07 16:23 update sketch
 2026-03-07 16:43 try different resistor values
+2026-03-07 17:20 add serial debug output
