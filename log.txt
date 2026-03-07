@@ -136,3 +136,4 @@
 2026-03-03 17:15 move pin assignments to top
 2026-03-03 19:45 swap delay for millis
 2026-03-05 22:08 tweak sensor threshold
+2026-03-07 16:23 update sketch
