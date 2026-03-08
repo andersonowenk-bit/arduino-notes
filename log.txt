@@ -143,3 +143,4 @@
 2026-03-07 18:52 test on breadboard
 2026-03-07 21:18 add serial debug output
 2026-03-07 21:42 swap delay for millis
+2026-03-07 22:36 fix wiring notes
