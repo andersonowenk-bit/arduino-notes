@@ -142,3 +142,4 @@
 2026-03-07 17:27 update readme
 2026-03-07 18:52 test on breadboard
 2026-03-07 21:18 add serial debug output
+2026-03-07 21:42 swap delay for millis
