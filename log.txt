@@ -148,3 +148,4 @@
 2026-03-17 17:15 tweak sensor threshold
 2026-03-17 18:27 small fixes
 2026-03-17 18:48 move pin assignments to top
+2026-03-17 21:11 save progress
