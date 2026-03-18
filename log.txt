@@ -151,3 +151,4 @@
 2026-03-17 21:11 save progress
 2026-03-17 22:02 clean up loop
 2026-03-17 22:40 add serial debug output
+2026-03-17 23:05 tweak sensor threshold
