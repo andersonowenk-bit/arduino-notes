@@ -154,3 +154,4 @@
 2026-03-17 23:05 tweak sensor threshold
 2026-03-19 18:14 servo sweep working
 2026-03-19 21:33 update readme
+2026-03-19 21:34 test on breadboard
