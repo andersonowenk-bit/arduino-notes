@@ -155,3 +155,4 @@
 2026-03-19 18:14 servo sweep working
 2026-03-19 21:33 update readme
 2026-03-19 21:34 test on breadboard
+2026-03-21 16:42 fix typo
