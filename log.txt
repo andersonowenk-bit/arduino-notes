@@ -161,3 +161,4 @@
 2026-03-21 19:09 save progress
 2026-03-21 21:53 test on breadboard
 2026-03-21 23:00 test on breadboard
+2026-03-22 18:02 tweak sensor threshold
