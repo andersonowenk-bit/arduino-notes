@@ -181,3 +181,4 @@
 2026-03-31 23:14 add parts list
 2026-04-02 15:43 add parts list
 2026-04-02 17:09 calibrate readings
+2026-04-02 17:37 fix wiring notes
