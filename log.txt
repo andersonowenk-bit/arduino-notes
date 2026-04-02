@@ -179,3 +179,4 @@
 2026-03-27 23:37 calibrate readings
 2026-03-31 19:24 test on breadboard
 2026-03-31 23:14 add parts list
+2026-04-02 15:43 add parts list
