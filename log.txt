@@ -185,3 +185,4 @@
 2026-04-02 20:22 servo sweep working
 2026-04-02 20:53 update readme
 2026-04-05 15:48 refactor button handling
+2026-04-05 17:40 fix wiring notes
