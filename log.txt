@@ -190,3 +190,4 @@
 2026-04-05 21:28 refactor button handling
 2026-04-05 21:37 comment out old code
 2026-04-05 22:59 clean up loop
+2026-04-06 10:27 wip
