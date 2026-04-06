@@ -196,3 +196,4 @@
 2026-04-06 15:10 update readme
 2026-04-06 16:46 swap delay for millis
 2026-04-06 17:55 move pin assignments to top
+2026-04-06 18:33 comment out old code
