@@ -188,3 +188,4 @@
 2026-04-05 17:40 fix wiring notes
 2026-04-05 20:30 tweak sensor threshold
 2026-04-05 21:28 refactor button handling
+2026-04-05 21:37 comment out old code
