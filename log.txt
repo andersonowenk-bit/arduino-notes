@@ -202,3 +202,4 @@
 2026-04-07 22:43 update sketch
 2026-04-09 16:30 save progress
 2026-04-09 22:06 test on breadboard
+2026-04-12 11:38 tweak sensor threshold
