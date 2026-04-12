@@ -206,3 +206,4 @@
 2026-04-12 13:22 notes from tonight
 2026-04-12 15:30 update sketch
 2026-04-12 16:37 swap delay for millis
+2026-04-12 17:23 refactor button handling
