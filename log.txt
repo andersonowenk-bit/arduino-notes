@@ -210,3 +210,4 @@
 2026-04-12 17:57 servo sweep working
 2026-04-12 18:14 tweak sensor threshold
 2026-04-12 19:10 log readings to csv
+2026-04-12 19:41 calibrate readings
