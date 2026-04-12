@@ -203,3 +203,4 @@
 2026-04-09 16:30 save progress
 2026-04-09 22:06 test on breadboard
 2026-04-12 11:38 tweak sensor threshold
+2026-04-12 13:22 notes from tonight
