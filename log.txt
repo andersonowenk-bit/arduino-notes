@@ -215,3 +215,4 @@
 2026-04-12 19:59 swap delay for millis
 2026-04-12 20:35 fix typo
 2026-04-12 21:00 adjust timing
+2026-04-12 21:44 clean up loop
