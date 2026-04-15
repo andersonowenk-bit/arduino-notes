@@ -222,3 +222,4 @@
 2026-04-13 23:39 small fixes
 2026-04-13 23:39 notes from tonight
 2026-04-13 23:52 swap delay for millis
+2026-04-15 19:51 try different resistor values
