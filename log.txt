@@ -234,3 +234,4 @@
 2026-04-20 21:04 notes from tonight
 2026-04-20 22:31 clean up loop
 2026-04-20 22:33 adjust timing
+2026-04-20 22:55 test on breadboard
