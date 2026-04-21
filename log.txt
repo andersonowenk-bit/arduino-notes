@@ -237,3 +237,4 @@
 2026-04-20 22:55 test on breadboard
 2026-04-20 23:48 move pin assignments to top
 2026-04-21 13:13 fix wiring notes
+2026-04-21 19:37 fix typo
