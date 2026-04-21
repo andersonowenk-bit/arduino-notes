@@ -230,3 +230,4 @@
 2026-04-18 14:54 add parts list
 2026-04-20 14:08 update readme
 2026-04-20 14:31 adjust timing
+2026-04-20 20:22 clean up loop
