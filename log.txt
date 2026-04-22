@@ -238,3 +238,4 @@
 2026-04-20 23:48 move pin assignments to top
 2026-04-21 13:13 fix wiring notes
 2026-04-21 19:37 fix typo
+2026-04-21 22:19 move pin assignments to top
