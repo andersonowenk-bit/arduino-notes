@@ -250,3 +250,4 @@
 2026-04-27 22:05 tweak sensor threshold
 2026-04-27 22:06 swap delay for millis
 2026-04-27 22:42 add serial debug output
+2026-04-28 18:05 swap delay for millis
