@@ -256,3 +256,4 @@
 2026-04-28 21:13 notes from tonight
 2026-04-28 22:56 test on breadboard
 2026-04-28 23:13 fix typo
+2026-05-02 14:20 tweak sensor threshold
