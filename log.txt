@@ -264,3 +264,4 @@
 2026-05-04 17:48 clean up loop
 2026-05-04 18:24 save progress
 2026-05-04 20:01 servo sweep working
+2026-05-16 15:56 wip
