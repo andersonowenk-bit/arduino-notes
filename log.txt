@@ -268,3 +268,4 @@
 2026-05-16 16:22 comment out old code
 2026-05-16 21:14 update readme
 2026-05-16 21:16 fix typo
+2026-05-17 16:51 calibrate readings
