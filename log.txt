@@ -272,3 +272,4 @@
 2026-05-18 13:34 log readings to csv
 2026-05-18 13:56 clean up loop
 2026-05-18 21:27 servo sweep working
+2026-05-19 12:50 adjust timing
