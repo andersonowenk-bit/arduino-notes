@@ -278,3 +278,4 @@
 2026-05-20 16:10 comment out old code
 2026-05-20 17:19 fix wiring notes
 2026-05-21 18:13 move pin assignments to top
+2026-05-21 20:35 update sketch
