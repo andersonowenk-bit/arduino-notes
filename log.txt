@@ -291,3 +291,4 @@
 2026-05-26 20:21 fix typo
 2026-05-26 21:08 clean up loop
 2026-05-26 22:21 add serial debug output
+2026-05-26 23:15 update readme
