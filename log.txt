@@ -293,3 +293,4 @@
 2026-05-26 22:21 add serial debug output
 2026-05-26 23:15 update readme
 2026-05-27 19:35 log readings to csv
+2026-05-27 20:28 fix typo
