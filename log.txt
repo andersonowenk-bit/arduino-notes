@@ -294,3 +294,4 @@
 2026-05-26 23:15 update readme
 2026-05-27 19:35 log readings to csv
 2026-05-27 20:28 fix typo
+2026-05-27 22:41 calibrate readings
