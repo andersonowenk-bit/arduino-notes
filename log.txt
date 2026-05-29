@@ -296,3 +296,4 @@
 2026-05-27 20:28 fix typo
 2026-05-27 22:41 calibrate readings
 2026-05-28 16:02 tweak sensor threshold
+2026-05-29 13:55 update sketch
