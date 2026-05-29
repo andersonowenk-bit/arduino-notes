@@ -298,3 +298,4 @@
 2026-05-28 16:02 tweak sensor threshold
 2026-05-29 13:55 update sketch
 2026-05-29 17:59 servo sweep working
+2026-05-29 19:17 comment out old code
