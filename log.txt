@@ -303,3 +303,4 @@
 2026-05-29 20:10 comment out old code
 2026-05-29 20:32 tweak sensor threshold
 2026-05-29 21:49 fix typo
+2026-05-29 22:04 tweak sensor threshold
