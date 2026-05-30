@@ -302,3 +302,4 @@
 2026-05-29 19:45 update sketch
 2026-05-29 20:10 comment out old code
 2026-05-29 20:32 tweak sensor threshold
+2026-05-29 21:49 fix typo
