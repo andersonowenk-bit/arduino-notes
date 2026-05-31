@@ -304,3 +304,4 @@
 2026-05-29 20:32 tweak sensor threshold
 2026-05-29 21:49 fix typo
 2026-05-29 22:04 tweak sensor threshold
+2026-05-31 15:27 log readings to csv
