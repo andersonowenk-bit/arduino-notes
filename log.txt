@@ -306,3 +306,4 @@
 2026-05-29 22:04 tweak sensor threshold
 2026-05-31 15:27 log readings to csv
 2026-05-31 22:17 log readings to csv
+2026-06-01 11:57 log readings to csv
