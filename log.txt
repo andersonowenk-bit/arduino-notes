@@ -307,3 +307,4 @@
 2026-05-31 15:27 log readings to csv
 2026-05-31 22:17 log readings to csv
 2026-06-01 11:57 log readings to csv
+2026-06-01 19:00 small fixes
