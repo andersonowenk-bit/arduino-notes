@@ -313,3 +313,4 @@
 2026-06-03 12:03 log readings to csv
 2026-06-03 13:11 adjust timing
 2026-06-03 18:34 save progress
+2026-06-03 19:19 servo sweep working
