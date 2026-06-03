@@ -311,3 +311,4 @@
 2026-06-01 23:19 move pin assignments to top
 2026-06-02 16:17 log readings to csv
 2026-06-03 12:03 log readings to csv
+2026-06-03 13:11 adjust timing
