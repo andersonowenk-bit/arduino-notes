@@ -319,3 +319,4 @@
 2026-06-03 21:00 notes from tonight
 2026-06-03 21:57 test on breadboard
 2026-06-04 11:28 calibrate readings
+2026-06-05 15:29 update sketch
