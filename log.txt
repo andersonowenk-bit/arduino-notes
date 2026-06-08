@@ -322,3 +322,4 @@
 2026-06-05 15:29 update sketch
 2026-06-05 22:26 calibrate readings
 2026-06-08 13:24 update readme
+2026-06-08 15:56 move pin assignments to top
