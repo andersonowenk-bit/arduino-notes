@@ -334,3 +334,4 @@
 2026-06-08 20:32 swap delay for millis
 2026-06-08 20:33 refactor button handling
 2026-06-08 20:54 add parts list
+2026-06-11 19:36 tweak sensor threshold
