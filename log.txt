@@ -338,3 +338,4 @@
 2026-06-11 20:29 clean up loop
 2026-06-11 21:15 fix typo
 2026-06-12 22:40 test on breadboard
+2026-06-13 12:59 fix wiring notes
