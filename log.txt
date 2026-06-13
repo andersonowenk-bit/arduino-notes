@@ -341,3 +341,4 @@
 2026-06-13 12:59 fix wiring notes
 2026-06-13 15:29 small fixes
 2026-06-13 18:37 fix typo
+2026-06-13 18:47 tweak sensor threshold
