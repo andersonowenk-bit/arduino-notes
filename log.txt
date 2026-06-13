@@ -337,3 +337,4 @@
 2026-06-11 19:36 tweak sensor threshold
 2026-06-11 20:29 clean up loop
 2026-06-11 21:15 fix typo
+2026-06-12 22:40 test on breadboard
