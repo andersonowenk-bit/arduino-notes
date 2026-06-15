@@ -346,3 +346,4 @@
 2026-06-13 20:08 adjust timing
 2026-06-13 22:51 swap delay for millis
 2026-06-15 12:36 update readme
+2026-06-15 16:22 test on breadboard
