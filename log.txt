@@ -350,3 +350,4 @@
 2026-06-15 18:17 comment out old code
 2026-06-15 20:42 adjust timing
 2026-06-15 21:06 calibrate readings
+2026-06-16 10:15 refactor button handling
