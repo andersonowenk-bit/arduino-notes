@@ -349,3 +349,4 @@
 2026-06-15 16:22 test on breadboard
 2026-06-15 18:17 comment out old code
 2026-06-15 20:42 adjust timing
+2026-06-15 21:06 calibrate readings
