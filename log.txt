@@ -354,3 +354,4 @@
 2026-06-16 21:19 small fixes
 2026-06-18 10:51 small fixes
 2026-06-18 23:17 fix typo
+2026-06-19 16:06 fix wiring notes
