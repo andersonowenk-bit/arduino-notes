@@ -356,3 +356,4 @@
 2026-06-18 23:17 fix typo
 2026-06-19 16:06 fix wiring notes
 2026-06-19 18:46 adjust timing
+2026-06-19 22:41 try different resistor values
