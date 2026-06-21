@@ -359,3 +359,4 @@
 2026-06-19 22:41 try different resistor values
 2026-06-20 14:18 fix typo
 2026-06-20 19:54 wip
+2026-06-20 21:02 try different resistor values
