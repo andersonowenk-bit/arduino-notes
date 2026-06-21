@@ -362,3 +362,4 @@
 2026-06-20 21:02 try different resistor values
 2026-06-20 21:27 clean up loop
 2026-06-20 23:23 comment out old code
+2026-06-20 23:45 log readings to csv
