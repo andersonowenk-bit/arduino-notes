@@ -370,3 +370,4 @@
 2026-06-23 20:50 fix typo
 2026-06-23 22:51 add parts list
 2026-06-24 14:02 swap delay for millis
+2026-06-24 18:52 move pin assignments to top
