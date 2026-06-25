@@ -374,3 +374,4 @@
 2026-06-25 10:32 move pin assignments to top
 2026-06-25 15:41 move pin assignments to top
 2026-06-25 15:51 fix wiring notes
+2026-06-25 17:05 update readme
