@@ -387,3 +387,4 @@
 2026-06-27 16:23 add serial debug output
 2026-06-27 18:12 comment out old code
 2026-06-27 18:57 wip
+2026-06-27 19:06 test on breadboard
