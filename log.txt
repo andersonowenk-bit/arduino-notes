@@ -384,3 +384,4 @@
 2026-06-27 15:05 small fixes
 2026-06-27 15:22 calibrate readings
 2026-06-27 15:43 adjust timing
+2026-06-27 16:23 add serial debug output
