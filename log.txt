@@ -386,3 +386,4 @@
 2026-06-27 15:43 adjust timing
 2026-06-27 16:23 add serial debug output
 2026-06-27 18:12 comment out old code
+2026-06-27 18:57 wip
