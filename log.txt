@@ -400,3 +400,4 @@
 2026-07-01 22:01 adjust timing
 2026-07-02 11:30 update readme
 2026-07-02 13:00 move pin assignments to top
+2026-07-02 15:06 move pin assignments to top
