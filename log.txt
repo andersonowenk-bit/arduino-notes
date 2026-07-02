@@ -399,3 +399,4 @@
 2026-07-01 16:58 add serial debug output
 2026-07-01 22:01 adjust timing
 2026-07-02 11:30 update readme
+2026-07-02 13:00 move pin assignments to top
