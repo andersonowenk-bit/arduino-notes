@@ -397,3 +397,4 @@
 2026-06-27 22:44 servo sweep working
 2026-07-01 11:45 test on breadboard
 2026-07-01 16:58 add serial debug output
+2026-07-01 22:01 adjust timing
