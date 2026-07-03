@@ -403,3 +403,4 @@
 2026-07-02 15:06 move pin assignments to top
 2026-07-02 22:43 save progress
 2026-07-03 10:02 add serial debug output
+2026-07-03 12:53 tweak sensor threshold
