@@ -404,3 +404,4 @@
 2026-07-02 22:43 save progress
 2026-07-03 10:02 add serial debug output
 2026-07-03 12:53 tweak sensor threshold
+2026-07-03 13:41 tweak sensor threshold
