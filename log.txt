@@ -406,3 +406,4 @@
 2026-07-03 12:53 tweak sensor threshold
 2026-07-03 13:41 tweak sensor threshold
 2026-07-03 17:24 comment out old code
+2026-07-03 19:29 adjust timing
