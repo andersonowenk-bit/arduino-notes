@@ -414,3 +414,4 @@
 2026-07-03 23:39 wip
 2026-07-05 11:28 clean up loop
 2026-07-05 14:12 tweak sensor threshold
+2026-07-05 17:16 update readme
