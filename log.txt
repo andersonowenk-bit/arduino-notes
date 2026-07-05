@@ -416,3 +416,4 @@
 2026-07-05 14:12 tweak sensor threshold
 2026-07-05 17:16 update readme
 2026-07-05 19:12 fix wiring notes
+2026-07-05 19:45 calibrate readings
