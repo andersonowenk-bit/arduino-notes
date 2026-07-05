@@ -412,3 +412,4 @@
 2026-07-03 20:01 small fixes
 2026-07-03 20:06 refactor button handling
 2026-07-03 23:39 wip
+2026-07-05 11:28 clean up loop
