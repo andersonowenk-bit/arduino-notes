@@ -428,3 +428,4 @@
 2026-07-06 17:12 update readme
 2026-07-06 17:21 swap delay for millis
 2026-07-06 17:38 fix typo
+2026-07-06 18:05 small fixes
