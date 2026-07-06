@@ -418,3 +418,4 @@
 2026-07-05 19:12 fix wiring notes
 2026-07-05 19:45 calibrate readings
 2026-07-05 20:58 add parts list
+2026-07-05 21:50 add serial debug output
