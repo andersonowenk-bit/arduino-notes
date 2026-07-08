@@ -434,3 +434,4 @@
 2026-07-06 20:52 try different resistor values
 2026-07-06 21:23 save progress
 2026-07-07 16:40 servo sweep working
+2026-07-07 20:43 add serial debug output
