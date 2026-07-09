@@ -439,3 +439,4 @@
 2026-07-09 13:01 fix wiring notes
 2026-07-09 14:09 comment out old code
 2026-07-09 16:29 swap delay for millis
+2026-07-09 16:58 move pin assignments to top
