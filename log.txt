@@ -440,3 +440,4 @@
 2026-07-09 14:09 comment out old code
 2026-07-09 16:29 swap delay for millis
 2026-07-09 16:58 move pin assignments to top
+2026-07-09 17:24 adjust timing
