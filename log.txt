@@ -447,3 +447,4 @@
 2026-07-09 21:22 swap delay for millis
 2026-07-09 21:40 add serial debug output
 2026-07-10 14:44 add parts list
+2026-07-10 16:49 adjust timing
