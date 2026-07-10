@@ -441,3 +441,4 @@
 2026-07-09 16:29 swap delay for millis
 2026-07-09 16:58 move pin assignments to top
 2026-07-09 17:24 adjust timing
+2026-07-09 20:33 fix wiring notes
