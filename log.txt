@@ -445,3 +445,4 @@
 2026-07-09 20:55 refactor button handling
 2026-07-09 21:12 calibrate readings
 2026-07-09 21:22 swap delay for millis
+2026-07-09 21:40 add serial debug output
