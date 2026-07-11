@@ -450,3 +450,4 @@
 2026-07-10 16:49 adjust timing
 2026-07-10 16:56 calibrate readings
 2026-07-10 19:06 adjust timing
+2026-07-10 22:29 update readme
