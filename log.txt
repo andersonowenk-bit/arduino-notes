@@ -456,3 +456,4 @@
 2026-07-11 20:23 adjust timing
 2026-07-14 10:31 fix typo
 2026-07-14 10:55 log readings to csv
+2026-07-14 22:57 wip
