@@ -468,3 +468,4 @@
 2026-07-20 15:02 wip
 2026-07-20 15:55 log readings to csv
 2026-07-20 18:48 add parts list
+2026-07-20 19:12 add serial debug output
