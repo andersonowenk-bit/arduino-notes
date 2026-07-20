@@ -461,3 +461,4 @@
 2026-07-16 15:24 small fixes
 2026-07-16 20:25 save progress
 2026-07-17 20:04 log readings to csv
+2026-07-19 21:50 clean up loop
