@@ -464,3 +464,4 @@
 2026-07-19 21:50 clean up loop
 2026-07-20 10:38 fix wiring notes
 2026-07-20 12:03 test on breadboard
+2026-07-20 12:03 refactor button handling
