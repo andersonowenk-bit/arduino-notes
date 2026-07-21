@@ -471,3 +471,4 @@
 2026-07-20 19:12 add serial debug output
 2026-07-20 19:50 swap delay for millis
 2026-07-20 20:09 fix wiring notes
+2026-07-20 20:43 swap delay for millis
