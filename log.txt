@@ -473,3 +473,4 @@
 2026-07-20 20:09 fix wiring notes
 2026-07-20 20:43 swap delay for millis
 2026-07-20 21:17 adjust timing
+2026-07-20 22:16 fix wiring notes
