@@ -481,3 +481,4 @@
 2026-07-28 13:46 tweak sensor threshold
 2026-07-28 15:45 try different resistor values
 2026-07-28 16:39 comment out old code
+2026-07-28 18:04 clean up loop
