@@ -483,3 +483,4 @@
 2026-07-28 16:39 comment out old code
 2026-07-28 18:04 clean up loop
 2026-07-28 19:30 adjust timing
+2026-07-28 19:42 tweak sensor threshold
