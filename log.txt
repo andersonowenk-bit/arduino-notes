@@ -484,3 +484,4 @@
 2026-07-28 18:04 clean up loop
 2026-07-28 19:30 adjust timing
 2026-07-28 19:42 tweak sensor threshold
+2026-07-28 20:21 wip
