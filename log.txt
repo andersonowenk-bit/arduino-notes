@@ -486,3 +486,4 @@
 2026-07-28 19:42 tweak sensor threshold
 2026-07-28 20:21 wip
 2026-07-28 21:33 update sketch
+2026-07-28 22:18 tweak sensor threshold
