@@ -493,3 +493,4 @@
 2026-07-31 19:41 update sketch
 2026-08-01 11:38 log readings to csv
 2026-08-01 12:58 calibrate readings
+2026-08-01 19:47 add parts list
