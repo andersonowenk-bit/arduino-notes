@@ -499,3 +499,4 @@
 2026-08-01 21:05 clean up loop
 2026-08-01 21:08 tweak sensor threshold
 2026-08-01 21:12 clean up loop
+2026-08-01 21:31 tweak sensor threshold
