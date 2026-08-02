@@ -495,3 +495,4 @@
 2026-08-01 12:58 calibrate readings
 2026-08-01 19:47 add parts list
 2026-08-01 20:39 add serial debug output
+2026-08-01 21:01 save progress
