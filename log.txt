@@ -507,3 +507,4 @@
 2026-08-01 23:02 notes from tonight
 2026-08-01 23:51 notes from tonight
 2026-08-02 18:34 log readings to csv
+2026-08-03 19:08 servo sweep working
