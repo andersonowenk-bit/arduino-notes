@@ -519,3 +519,4 @@
 2026-08-17 17:31 swap delay for millis
 2026-08-17 17:41 fix wiring notes
 2026-08-17 17:50 fix wiring notes
+2026-08-17 19:30 wip
