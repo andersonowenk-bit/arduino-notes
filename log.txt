@@ -521,3 +521,4 @@
 2026-08-17 17:50 fix wiring notes
 2026-08-17 19:30 wip
 2026-08-17 19:50 update readme
+2026-08-17 21:45 move pin assignments to top
