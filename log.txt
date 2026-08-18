@@ -522,3 +522,4 @@
 2026-08-17 19:30 wip
 2026-08-17 19:50 update readme
 2026-08-17 21:45 move pin assignments to top
+2026-08-17 22:18 log readings to csv
