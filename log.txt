@@ -524,3 +524,4 @@
 2026-08-17 21:45 move pin assignments to top
 2026-08-17 22:18 log readings to csv
 2026-08-18 11:29 notes from tonight
+2026-08-18 12:28 servo sweep working
