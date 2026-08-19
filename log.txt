@@ -530,3 +530,4 @@
 2026-08-18 17:54 small fixes
 2026-08-18 18:09 log readings to csv
 2026-08-18 21:03 clean up loop
+2026-08-18 23:58 wip
