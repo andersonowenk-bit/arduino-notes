@@ -534,3 +534,4 @@
 2026-08-19 12:34 calibrate readings
 2026-08-19 20:51 small fixes
 2026-08-19 22:05 move pin assignments to top
+2026-08-20 15:04 add parts list
