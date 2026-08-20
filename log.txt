@@ -532,3 +532,4 @@
 2026-08-18 21:03 clean up loop
 2026-08-18 23:58 wip
 2026-08-19 12:34 calibrate readings
+2026-08-19 20:51 small fixes
