@@ -541,3 +541,4 @@
 2026-08-23 15:28 clean up loop
 2026-08-23 16:35 tweak sensor threshold
 2026-08-25 14:13 add parts list
+2026-08-25 23:12 update readme
