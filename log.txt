@@ -546,3 +546,4 @@
 2026-08-28 21:18 update readme
 2026-08-28 21:23 fix typo
 2026-08-28 21:55 update readme
+2026-08-28 22:22 try different resistor values
