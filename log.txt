@@ -544,3 +544,4 @@
 2026-08-25 23:12 update readme
 2026-08-28 12:39 log readings to csv
 2026-08-28 21:18 update readme
+2026-08-28 21:23 fix typo
