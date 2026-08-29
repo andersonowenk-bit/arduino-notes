@@ -548,3 +548,4 @@
 2026-08-28 21:55 update readme
 2026-08-28 22:22 try different resistor values
 2026-08-28 22:58 adjust timing
+2026-08-28 23:20 update readme
