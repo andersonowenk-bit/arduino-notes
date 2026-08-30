@@ -553,3 +553,4 @@
 2026-08-29 14:12 log readings to csv
 2026-08-29 16:34 adjust timing
 2026-08-29 22:15 move pin assignments to top
+2026-08-29 22:54 small fixes
