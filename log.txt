@@ -559,3 +559,4 @@
 2026-08-31 20:04 adjust timing
 2026-08-31 21:54 try different resistor values
 2026-09-02 15:01 fix wiring notes
+2026-09-02 15:44 calibrate readings
