@@ -558,3 +558,4 @@
 2026-08-30 18:10 save progress
 2026-08-31 20:04 adjust timing
 2026-08-31 21:54 try different resistor values
+2026-09-02 15:01 fix wiring notes
