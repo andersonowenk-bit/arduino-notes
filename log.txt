@@ -561,3 +561,4 @@
 2026-09-02 15:01 fix wiring notes
 2026-09-02 15:44 calibrate readings
 2026-09-04 12:09 update sketch
+2026-09-04 14:19 move pin assignments to top
