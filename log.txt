@@ -562,3 +562,4 @@
 2026-09-02 15:44 calibrate readings
 2026-09-04 12:09 update sketch
 2026-09-04 14:19 move pin assignments to top
+2026-09-04 20:12 refactor button handling
