@@ -568,3 +568,4 @@
 2026-09-06 15:12 adjust timing
 2026-09-06 15:30 servo sweep working
 2026-09-06 15:38 test on breadboard
+2026-09-06 16:14 calibrate readings
