@@ -567,3 +567,4 @@
 2026-09-06 14:52 clean up loop
 2026-09-06 15:12 adjust timing
 2026-09-06 15:30 servo sweep working
+2026-09-06 15:38 test on breadboard
