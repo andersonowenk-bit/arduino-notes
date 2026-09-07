@@ -578,3 +578,4 @@
 2026-09-07 16:07 update readme
 2026-09-07 16:32 move pin assignments to top
 2026-09-07 17:59 fix typo
+2026-09-07 19:49 clean up loop
