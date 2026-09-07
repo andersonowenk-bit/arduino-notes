@@ -574,3 +574,4 @@
 2026-09-07 13:32 update sketch
 2026-09-07 15:35 try different resistor values
 2026-09-07 15:40 try different resistor values
+2026-09-07 15:52 clean up loop
