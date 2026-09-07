@@ -576,3 +576,4 @@
 2026-09-07 15:40 try different resistor values
 2026-09-07 15:52 clean up loop
 2026-09-07 16:07 update readme
+2026-09-07 16:32 move pin assignments to top
