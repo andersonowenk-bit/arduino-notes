@@ -571,3 +571,4 @@
 2026-09-06 16:14 calibrate readings
 2026-09-06 16:46 servo sweep working
 2026-09-07 12:56 move pin assignments to top
+2026-09-07 13:32 update sketch
