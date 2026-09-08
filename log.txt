@@ -583,3 +583,4 @@
 2026-09-07 20:36 update sketch
 2026-09-07 21:08 test on breadboard
 2026-09-07 21:14 calibrate readings
+2026-09-07 22:05 try different resistor values
