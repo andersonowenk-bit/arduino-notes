@@ -584,3 +584,4 @@
 2026-09-07 21:08 test on breadboard
 2026-09-07 21:14 calibrate readings
 2026-09-07 22:05 try different resistor values
+2026-09-07 23:54 log readings to csv
