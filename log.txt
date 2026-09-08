@@ -581,3 +581,4 @@
 2026-09-07 19:49 clean up loop
 2026-09-07 19:55 move pin assignments to top
 2026-09-07 20:36 update sketch
+2026-09-07 21:08 test on breadboard
