@@ -585,3 +585,4 @@
 2026-09-07 21:14 calibrate readings
 2026-09-07 22:05 try different resistor values
 2026-09-07 23:54 log readings to csv
+2026-09-10 16:34 comment out old code
