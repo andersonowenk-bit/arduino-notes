@@ -592,3 +592,4 @@
 2026-09-10 21:22 servo sweep working
 2026-09-10 21:53 fix typo
 2026-09-10 23:26 fix wiring notes
+2026-09-10 23:36 update readme
