@@ -594,3 +594,4 @@
 2026-09-10 23:26 fix wiring notes
 2026-09-10 23:36 update readme
 2026-09-12 16:09 test on breadboard
+2026-09-13 13:43 test on breadboard
