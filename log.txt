@@ -598,3 +598,4 @@
 2026-09-13 16:32 swap delay for millis
 2026-09-13 17:48 move pin assignments to top
 2026-09-14 16:26 fix typo
+2026-09-14 17:38 add serial debug output
