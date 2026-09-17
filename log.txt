@@ -601,3 +601,4 @@
 2026-09-14 17:38 add serial debug output
 2026-09-15 18:31 swap delay for millis
 2026-09-15 22:01 notes from tonight
+2026-09-17 13:03 notes from tonight
