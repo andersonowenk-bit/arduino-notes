@@ -606,3 +606,4 @@
 2026-09-17 19:20 fix wiring notes
 2026-09-17 20:37 test on breadboard
 2026-09-17 21:39 tweak sensor threshold
+2026-09-18 13:52 add serial debug output
