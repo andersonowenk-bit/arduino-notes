@@ -610,3 +610,4 @@
 2026-09-18 20:44 tweak sensor threshold
 2026-09-19 17:02 servo sweep working
 2026-09-19 17:41 tweak sensor threshold
+2026-09-19 17:46 add parts list
