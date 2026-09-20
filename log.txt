@@ -620,3 +620,4 @@
 2026-09-19 23:29 comment out old code
 2026-09-19 23:53 servo sweep working
 2026-09-20 10:01 swap delay for millis
+2026-09-20 16:26 tweak sensor threshold
