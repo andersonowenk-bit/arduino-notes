@@ -618,3 +618,4 @@
 2026-09-19 20:20 comment out old code
 2026-09-19 22:50 save progress
 2026-09-19 23:29 comment out old code
+2026-09-19 23:53 servo sweep working
