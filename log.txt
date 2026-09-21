@@ -624,3 +624,4 @@
 2026-09-20 19:41 add parts list
 2026-09-20 19:48 wip
 2026-09-20 21:41 fix wiring notes
+2026-09-21 18:34 add serial debug output
