@@ -626,3 +626,4 @@
 2026-09-20 21:41 fix wiring notes
 2026-09-21 18:34 add serial debug output
 2026-09-21 19:27 notes from tonight
+2026-09-21 21:46 update readme
