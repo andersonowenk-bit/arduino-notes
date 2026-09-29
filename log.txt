@@ -634,3 +634,4 @@
 2026-09-27 21:08 try different resistor values
 2026-09-28 18:01 servo sweep working
 2026-09-28 20:12 move pin assignments to top
+2026-09-28 23:07 servo sweep working
