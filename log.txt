@@ -640,3 +640,4 @@
 2026-09-30 14:43 refactor button handling
 2026-09-30 15:37 small fixes
 2026-09-30 19:38 comment out old code
+2026-09-30 22:51 test on breadboard
