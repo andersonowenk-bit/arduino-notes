@@ -644,3 +644,4 @@
 2026-10-01 21:18 tweak sensor threshold
 2026-10-02 18:41 tweak sensor threshold
 2026-10-02 19:12 fix typo
+2026-10-02 20:30 update readme
