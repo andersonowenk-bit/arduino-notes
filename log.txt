@@ -645,3 +645,4 @@
 2026-10-02 18:41 tweak sensor threshold
 2026-10-02 19:12 fix typo
 2026-10-02 20:30 update readme
+2026-10-04 18:35 add serial debug output
