@@ -656,3 +656,4 @@
 2026-10-07 18:14 refactor button handling
 2026-10-07 18:26 calibrate readings
 2026-10-07 18:32 move pin assignments to top
+2026-10-07 19:35 add parts list
