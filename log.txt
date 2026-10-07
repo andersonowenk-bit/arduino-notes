@@ -653,3 +653,4 @@
 2026-10-07 15:07 clean up loop
 2026-10-07 16:37 comment out old code
 2026-10-07 16:43 clean up loop
+2026-10-07 18:14 refactor button handling
