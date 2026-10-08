@@ -658,3 +658,4 @@
 2026-10-07 18:32 move pin assignments to top
 2026-10-07 19:35 add parts list
 2026-10-07 20:14 log readings to csv
+2026-10-07 20:38 fix typo
