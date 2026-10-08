@@ -664,3 +664,4 @@
 2026-10-07 21:23 add parts list
 2026-10-07 21:25 fix typo
 2026-10-07 21:30 fix wiring notes
+2026-10-08 16:57 servo sweep working
