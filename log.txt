@@ -662,3 +662,4 @@
 2026-10-07 21:06 comment out old code
 2026-10-07 21:14 test on breadboard
 2026-10-07 21:23 add parts list
+2026-10-07 21:25 fix typo
