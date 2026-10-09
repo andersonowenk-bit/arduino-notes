@@ -673,3 +673,4 @@
 2026-10-09 13:22 swap delay for millis
 2026-10-09 14:46 save progress
 2026-10-09 16:14 fix typo
+2026-10-09 18:21 servo sweep working
