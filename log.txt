@@ -666,3 +666,4 @@
 2026-10-07 21:30 fix wiring notes
 2026-10-08 16:57 servo sweep working
 2026-10-08 18:14 test on breadboard
+2026-10-08 21:48 update readme
