@@ -668,3 +668,4 @@
 2026-10-08 18:14 test on breadboard
 2026-10-08 21:48 update readme
 2026-10-08 23:58 test on breadboard
+2026-10-09 09:23 add parts list
