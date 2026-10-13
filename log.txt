@@ -676,3 +676,4 @@
 2026-10-09 18:21 servo sweep working
 2026-10-09 20:25 small fixes
 2026-10-11 15:24 add serial debug output
+2026-10-13 09:27 update readme
