@@ -681,3 +681,4 @@
 2026-10-15 13:26 calibrate readings
 2026-10-15 14:24 add serial debug output
 2026-10-15 18:54 add parts list
+2026-10-16 20:38 update sketch
