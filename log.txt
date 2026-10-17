@@ -683,3 +683,4 @@
 2026-10-15 18:54 add parts list
 2026-10-16 20:38 update sketch
 2026-10-17 15:48 calibrate readings
+2026-10-17 17:45 tweak sensor threshold
