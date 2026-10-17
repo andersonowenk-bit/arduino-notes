@@ -685,3 +685,4 @@
 2026-10-17 15:48 calibrate readings
 2026-10-17 17:45 tweak sensor threshold
 2026-10-17 17:51 refactor button handling
+2026-10-17 19:59 comment out old code
