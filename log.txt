@@ -693,3 +693,4 @@
 2026-10-18 15:13 log readings to csv
 2026-10-18 20:07 fix typo
 2026-10-18 20:30 add parts list
+2026-10-18 22:30 add serial debug output
