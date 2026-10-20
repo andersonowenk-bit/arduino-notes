@@ -697,3 +697,4 @@
 2026-10-19 18:38 add serial debug output
 2026-10-19 23:15 fix wiring notes
 2026-10-20 13:53 save progress
+2026-10-20 15:13 fix typo
