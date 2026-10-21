@@ -700,3 +700,4 @@
 2026-10-20 15:13 fix typo
 2026-10-20 19:59 tweak sensor threshold
 2026-10-21 10:25 tweak sensor threshold
+2026-10-21 10:44 servo sweep working
