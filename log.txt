@@ -702,3 +702,4 @@
 2026-10-21 10:25 tweak sensor threshold
 2026-10-21 10:44 servo sweep working
 2026-10-21 12:38 comment out old code
+2026-10-21 17:48 move pin assignments to top
