@@ -709,3 +709,4 @@
 2026-10-21 19:37 swap delay for millis
 2026-10-22 15:23 add serial debug output
 2026-10-22 18:51 test on breadboard
+2026-10-22 19:21 move pin assignments to top
