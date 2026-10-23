@@ -711,3 +711,4 @@
 2026-10-22 18:51 test on breadboard
 2026-10-22 19:21 move pin assignments to top
 2026-10-22 21:30 fix typo
+2026-10-22 21:44 servo sweep working
