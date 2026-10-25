@@ -718,3 +718,4 @@
 2026-10-24 16:15 notes from tonight
 2026-10-24 17:29 notes from tonight
 2026-10-24 18:55 add serial debug output
+2026-10-24 20:17 wip
