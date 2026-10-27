@@ -720,3 +720,4 @@
 2026-10-24 18:55 add serial debug output
 2026-10-24 20:17 wip
 2026-10-26 20:11 add serial debug output
+2026-10-26 22:24 add serial debug output
