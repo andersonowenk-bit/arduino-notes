@@ -730,3 +730,4 @@
 2026-10-31 21:30 add serial debug output
 2026-11-02 10:05 fix typo
 2026-11-02 17:41 wip
+2026-11-02 21:55 clean up loop
