@@ -737,3 +737,4 @@
 2026-11-03 15:39 test on breadboard
 2026-11-03 23:28 adjust timing
 2026-11-04 12:17 refactor button handling
+2026-11-04 15:06 tweak sensor threshold
