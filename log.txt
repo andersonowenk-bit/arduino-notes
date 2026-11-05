@@ -738,3 +738,4 @@
 2026-11-03 23:28 adjust timing
 2026-11-04 12:17 refactor button handling
 2026-11-04 15:06 tweak sensor threshold
+2026-11-04 19:33 comment out old code
